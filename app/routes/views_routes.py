@@ -15,3 +15,7 @@ def contact():
         flash('Message envoyé avec succès!', 'success')
         return redirect(url_for('main.contact'))
     return render_template('contact.html', title='Contact', form=form)
+
+@main.route('/services')
+def services():
+    return render_template('services.html', title='Services')
