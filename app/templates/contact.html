@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<!-- Quick Contact Form -->
+<section class="contact-form my-5">
+    <h5>Contactez-nous</h5>
+    <form method="POST" action="{{ url_for('main.contact') }}" class="row g-3 shadow p-4 bg-light rounded">
+        {{ form.hidden_tag() }}
+        <div class="col-md-6">
+            <label for="name" class="form-label">Nom</label>
+            {{ form.name(class="form-control", id="name") }}
+        </div>
+        <div class="col-md-6">
+            <label for="email" class="form-label">Email</label>
+            {{ form.email(class="form-control", id="email") }}
+        </div>
+        <div class="col-12">
+            <label for="message" class="form-label">Message</label>
+            {{ form.message(class="form-control", id="message", rows="5") }}
+        </div>
+        <div class="col-12 text-center">
+            {{ form.submit(class="btn btn-primary") }}
+        </div>
+    </form>
+</section>
+{% endblock %}

@@ -1,0 +1,82 @@
+.hero-section {
+    background: linear-gradient(135deg, #007bff, #6610f2);
+    color: white;
+}
+
+.hero-section h1 {
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.contact-form {
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.contact-form button {
+    background: #007bff;
+    border: none;
+    padding: 10px 20px;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+
+/* Styles pour le carousel */
+#visiotechCarousel {
+    position: relative;
+    height: 50vh; /* Hauteur réduite du carousel */
+    overflow: hidden;
+}
+
+#visiotechCarousel img {
+    height: 50vh; /* Correspond à la hauteur du carousel */
+    object-fit: cover; /* Garde les proportions des images */
+    opacity: 0.8; /* Rend les images légèrement transparentes */
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.6); /* Fond semi-transparent */
+    border-radius: 10px;
+    padding: 10px 15px;
+    bottom: 10%; /* Positionne les légendes en bas */
+    transform: translateY(0); /* Assure qu'elles restent visibles */
+}
+
+.carousel-caption h5,
+.carousel-caption p {
+    font-size: 1rem; /* Texte plus petit pour s'adapter au carousel réduit */
+    margin: 0;
+}
+
+/* Ajuste les boutons de contrôle du carousel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
+/* Marges ajustées pour le contenu principal */
+main {
+    margin-top: 70px; /* Ajusté pour laisser de la place à la navbar */
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
