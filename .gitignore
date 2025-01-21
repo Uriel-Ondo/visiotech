@@ -1,5 +1,7 @@
 migrations
 .venv
-test
+.env
+tests
+venv
 app/__pycache__
 app/routes/__pycache__
