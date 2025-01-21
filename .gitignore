@@ -1,4 +1,4 @@
-app/migrations
+migrations
 .venv
 test
 app/__pycache__
