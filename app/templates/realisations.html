@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/realisations.css') }}">
+
+<div class="container my-5">
+    <h1 class="text-center mb-4">Nos Réalisations</h1>
+    <p class="text-center mb-5">Découvrez les projets que nous avons réalisés avec passion et expertise.</p>
+    <div class="row">
+        <!-- Site de Gestion de Pharmacie -->
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card realisation-card">
+                <img src="{{ url_for('static', filename='images/pharmacie.jpg') }}" class="card-img-top" alt="Gestion de Pharmacie">
+                <div class="card-body">
+                    <h5 class="card-title">Site de Gestion de Pharmacie</h5>
+                    <p class="card-text">Une solution complète pour gérer les stocks, les commandes et les clients d'une pharmacie.</p>
+                    <a href="http://example.com/pharmacie" target="_blank" class="btn btn-primary">Voir le site</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Galerie de Famille -->
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card realisation-card">
+                <img src="{{ url_for('static', filename='images/galerie.jpg') }}" class="card-img-top" alt="Galerie de Famille">
+                <div class="card-body">
+                    <h5 class="card-title">Galerie de Famille</h5>
+                    <p class="card-text">Un site dédié au partage des souvenirs familiaux avec une interface élégante et intuitive.</p>
+                    <a href="http://example.com/galerie" target="_blank" class="btn btn-primary">Voir le site</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gestion des Fluides Médicaux -->
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card realisation-card">
+                <img src="{{ url_for('static', filename='images/fluides.png') }}" class="card-img-top" alt="Gestion des Fluides Médicaux">
+                <div class="card-body">
+                    <h5 class="card-title">Gestion des Fluides Médicaux</h5>
+                    <p class="card-text">Un outil innovant pour surveiller et gérer les fluides médicaux dans les hôpitaux.</p>
+                    <a href="http://example.com/fluides" target="_blank" class="btn btn-primary">Voir le site</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Site E-commerce -->
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card realisation-card">
+                <img src="{{ url_for('static', filename='images/ecommerce.jpg') }}" class="card-img-top" alt="Site E-commerce">
+                <div class="card-body">
+                    <h5 class="card-title">Site E-commerce</h5>
+                    <p class="card-text">Une plateforme moderne pour acheter et vendre des produits en ligne facilement.</p>
+                    <a href="http://example.com/ecommerce" target="_blank" class="btn btn-primary">Voir le site</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Association des Résidents Gabonais en Guinée -->
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card realisation-card">
+                <img src="{{ url_for('static', filename='images/argg.jpg') }}" class="card-img-top" alt="Association des Résidents Gabonais en Guinée">
+                <div class="card-body">
+                    <h5 class="card-title">Association des Résidents Gabonais en Guinée</h5>
+                    <p class="card-text">Un espace en ligne pour connecter et informer les résidents gabonais en Guinée.</p>
+                    <a href="http://example.com/association" target="_blank" class="btn btn-primary">Voir le site</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
