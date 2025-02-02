@@ -4,20 +4,46 @@
 <!-- Quick Contact Form -->
 <section class="contact-form my-5">
     <h5>Contactez-nous</h5>
+
+    <!-- Affichage des messages flash -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                    {{ message }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
     <form method="POST" action="{{ url_for('main.contact') }}" class="row g-3 shadow p-4 bg-light rounded">
         {{ form.hidden_tag() }}
+
         <div class="col-md-6">
             <label for="name" class="form-label">Nom</label>
-            {{ form.name(class="form-control", id="name") }}
+            {{ form.name(class="form-control {% if form.name.errors %}is-invalid{% endif %}", id="name") }}
+            {% for error in form.name.errors %}
+                <div class="invalid-feedback">{{ error }}</div>
+            {% endfor %}
         </div>
+
         <div class="col-md-6">
             <label for="email" class="form-label">Email</label>
-            {{ form.email(class="form-control", id="email") }}
+            {{ form.email(class="form-control {% if form.email.errors %}is-invalid{% endif %}", id="email") }}
+            {% for error in form.email.errors %}
+                <div class="invalid-feedback">{{ error }}</div>
+            {% endfor %}
         </div>
+
         <div class="col-12">
             <label for="message" class="form-label">Message</label>
-            {{ form.message(class="form-control", id="message", rows="5") }}
+            {{ form.message(class="form-control {% if form.message.errors %}is-invalid{% endif %}", id="message", rows="5") }}
+            {% for error in form.message.errors %}
+                <div class="invalid-feedback">{{ error }}</div>
+            {% endfor %}
         </div>
+
         <div class="col-12 text-center">
             {{ form.submit(class="btn btn-primary") }}
         </div>

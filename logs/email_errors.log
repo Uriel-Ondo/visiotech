@@ -1,0 +1,214 @@
+2025-02-02 01:48:33,011 - WARNING -  * Debugger is active!
+2025-02-02 01:48:33,012 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 01:48:43,085 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading
+2025-02-02 01:48:43,858 - WARNING -  * Debugger is active!
+2025-02-02 01:48:43,858 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 01:50:06,320 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading
+2025-02-02 01:50:26,642 - WARNING -  * Debugger is active!
+2025-02-02 01:50:26,643 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 01:51:04,783 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:04] "GET /contact HTTP/1.1" 200 -
+2025-02-02 01:51:05,216 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:05] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:51:05,516 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:05] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 01:51:05,948 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 01:51:28,961 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:28] "[32mPOST /contact HTTP/1.1[0m" 302 -
+2025-02-02 01:51:29,656 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:29] "GET /contact HTTP/1.1" 200 -
+2025-02-02 01:51:30,146 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:30] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:51:30,440 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:30] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 01:51:30,566 - INFO - 127.0.0.1 - - [02/Feb/2025 01:51:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 01:53:31,759 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading
+2025-02-02 01:53:32,737 - WARNING -  * Debugger is active!
+2025-02-02 01:53:32,738 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 01:53:33,240 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:33] "GET /contact HTTP/1.1" 200 -
+2025-02-02 01:53:33,716 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:33] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:53:34,011 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:34] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 01:53:34,444 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 01:53:56,332 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:56] "[32mPOST /contact HTTP/1.1[0m" 302 -
+2025-02-02 01:53:56,643 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:56] "GET /contact HTTP/1.1" 200 -
+2025-02-02 01:53:57,021 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:57] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:53:57,312 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:57] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 01:53:57,438 - INFO - 127.0.0.1 - - [02/Feb/2025 01:53:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 01:56:30,821 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:30] "GET / HTTP/1.1" 200 -
+2025-02-02 01:56:31,257 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:31] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:56:31,554 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:31] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 01:56:31,703 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 01:56:44,795 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:44] "GET /realisations HTTP/1.1" 200 -
+2025-02-02 01:56:45,583 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/css/realisations.css HTTP/1.1" 200 -
+2025-02-02 01:56:45,663 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:56:45,959 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/fluides.png HTTP/1.1" 200 -
+2025-02-02 01:56:45,970 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/pharmacie.jpg HTTP/1.1" 200 -
+2025-02-02 01:56:45,970 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/argg.jpg HTTP/1.1" 200 -
+2025-02-02 01:56:45,983 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/ecommerce.jpg HTTP/1.1" 200 -
+2025-02-02 01:56:45,984 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/galerie.jpg HTTP/1.1" 200 -
+2025-02-02 01:56:45,986 - INFO - 127.0.0.1 - - [02/Feb/2025 01:56:45] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:43,636 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:43] "GET /realisations HTTP/1.1" 200 -
+2025-02-02 01:57:44,024 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 01:57:44,035 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/css/realisations.css HTTP/1.1" 200 -
+2025-02-02 01:57:44,332 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/images/ecommerce.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:44,337 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/images/pharmacie.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:44,347 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:44,360 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/images/galerie.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:44,404 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "[36mGET /static/images/fluides.png HTTP/1.1[0m" 304 -
+2025-02-02 01:57:44,405 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "GET /static/images/argg.jpg HTTP/1.1" 200 -
+2025-02-02 01:57:44,996 - INFO - 127.0.0.1 - - [02/Feb/2025 01:57:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 02:13:09,493 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading
+2025-02-02 02:13:10,360 - WARNING -  * Debugger is active!
+2025-02-02 02:13:10,361 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:13:18,418 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading
+2025-02-02 02:13:19,177 - WARNING -  * Debugger is active!
+2025-02-02 02:13:19,178 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:13:53,366 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 02:13:54,224 - WARNING -  * Debugger is active!
+2025-02-02 02:13:54,225 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:14:35,601 - INFO - 127.0.0.1 - - [02/Feb/2025 02:14:35] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 02:14:51,588 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 02:14:52,505 - WARNING -  * Debugger is active!
+2025-02-02 02:14:52,505 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:15:19,869 - INFO - 196.207.231.221 - - [02/Feb/2025 02:15:19] "GET / HTTP/1.1" 200 -
+2025-02-02 02:15:20,282 - INFO - 196.207.231.221 - - [02/Feb/2025 02:15:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-02 02:15:20,585 - INFO - 196.207.231.221 - - [02/Feb/2025 02:15:20] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 02:15:29,739 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 02:15:30,647 - WARNING -  * Debugger is active!
+2025-02-02 02:15:30,648 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:15:34,688 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 02:15:35,667 - WARNING -  * Debugger is active!
+2025-02-02 02:15:35,667 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:15:56,338 - INFO - 127.0.0.1 - - [02/Feb/2025 02:15:56] "GET /contact HTTP/1.1" 200 -
+2025-02-02 02:15:56,801 - INFO - 127.0.0.1 - - [02/Feb/2025 02:15:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-02 02:15:57,102 - INFO - 127.0.0.1 - - [02/Feb/2025 02:15:57] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 02:15:57,243 - INFO - 127.0.0.1 - - [02/Feb/2025 02:15:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 02:16:26,178 - INFO - 127.0.0.1 - - [02/Feb/2025 02:16:26] "[32mPOST /contact HTTP/1.1[0m" 302 -
+2025-02-02 02:16:26,488 - INFO - 127.0.0.1 - - [02/Feb/2025 02:16:26] "GET /contact HTTP/1.1" 200 -
+2025-02-02 02:16:26,844 - INFO - 127.0.0.1 - - [02/Feb/2025 02:16:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-02 02:16:27,172 - INFO - 127.0.0.1 - - [02/Feb/2025 02:16:27] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 02:16:42,362 - INFO - 66.249.93.166 - - [02/Feb/2025 02:16:42] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:17:30,234 - INFO - 66.249.93.167 - - [02/Feb/2025 02:17:30] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:17:32,890 - INFO - 66.249.93.166 - - [02/Feb/2025 02:17:32] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:17:52,656 - INFO - 66.249.93.165 - - [02/Feb/2025 02:17:52] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:18:08,335 - INFO - 66.249.93.166 - - [02/Feb/2025 02:18:08] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:19:28,920 - INFO - 66.249.93.166 - - [02/Feb/2025 02:19:28] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:20:20,914 - INFO - 127.0.0.1 - - [02/Feb/2025 02:20:20] "GET / HTTP/1.1" 200 -
+2025-02-02 02:20:21,369 - INFO - 127.0.0.1 - - [02/Feb/2025 02:20:21] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 02:20:21,666 - INFO - 127.0.0.1 - - [02/Feb/2025 02:20:21] "GET /static/images/logo.jpg HTTP/1.1" 200 -
+2025-02-02 02:20:21,956 - INFO - 127.0.0.1 - - [02/Feb/2025 02:20:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-02 02:30:43,295 - INFO - 127.0.0.1 - - [02/Feb/2025 02:30:43] "GET / HTTP/1.1" 200 -
+2025-02-02 02:30:44,394 - INFO - 127.0.0.1 - - [02/Feb/2025 02:30:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-02 02:30:44,694 - INFO - 127.0.0.1 - - [02/Feb/2025 02:30:44] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 02:40:03,101 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/config.py', reloading
+2025-02-02 02:40:04,565 - WARNING -  * Debugger is active!
+2025-02-02 02:40:04,571 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:43:35,837 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/forms_routes.py', reloading
+2025-02-02 02:43:36,832 - WARNING -  * Debugger is active!
+2025-02-02 02:43:36,833 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:43:54,944 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/forms_routes.py', reloading
+2025-02-02 02:45:34,698 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://138.197.19.186:5000
+2025-02-02 02:45:34,698 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 02:45:34,700 - INFO -  * Restarting with stat
+2025-02-02 02:45:35,524 - WARNING -  * Debugger is active!
+2025-02-02 02:45:35,525 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:45:44,255 - INFO - 127.0.0.1 - - [02/Feb/2025 02:45:44] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 02:45:45,065 - INFO - 127.0.0.1 - - [02/Feb/2025 02:45:45] "GET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-02 02:45:45,072 - INFO - 127.0.0.1 - - [02/Feb/2025 02:45:45] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-02 02:45:45,893 - INFO - 127.0.0.1 - - [02/Feb/2025 02:45:45] "GET /contact?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-02 02:45:46,021 - INFO - 127.0.0.1 - - [02/Feb/2025 02:45:46] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=dClsbhiZuTUKVrpmSA0a HTTP/1.1" 200 -
+2025-02-02 02:47:03,155 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/config.py', reloading
+2025-02-02 02:47:03,483 - INFO -  * Restarting with stat
+2025-02-02 02:47:04,630 - WARNING -  * Debugger is active!
+2025-02-02 02:47:04,632 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:47:06,663 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/config.py', reloading
+2025-02-02 02:47:06,895 - INFO -  * Restarting with stat
+2025-02-02 02:47:07,608 - WARNING -  * Debugger is active!
+2025-02-02 02:47:07,609 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:47:09,030 - INFO - 127.0.0.1 - - [02/Feb/2025 02:47:09] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 02:47:09,767 - INFO - 127.0.0.1 - - [02/Feb/2025 02:47:09] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-02 02:47:09,778 - INFO - 127.0.0.1 - - [02/Feb/2025 02:47:09] "[36mGET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-02 02:47:10,153 - INFO - 127.0.0.1 - - [02/Feb/2025 02:47:10] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=zTU7SUaAjgq9ctBROpxX HTTP/1.1" 200 -
+2025-02-02 02:49:36,298 - INFO - 127.0.0.1 - - [02/Feb/2025 02:49:36] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 02:49:37,031 - INFO - 127.0.0.1 - - [02/Feb/2025 02:49:37] "GET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-02 02:49:37,046 - INFO - 127.0.0.1 - - [02/Feb/2025 02:49:37] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-02 02:49:37,530 - INFO - 127.0.0.1 - - [02/Feb/2025 02:49:37] "[36mGET /contact?__debugger__=yes&cmd=resource&f=console.png&s=zTU7SUaAjgq9ctBROpxX HTTP/1.1[0m" 304 -
+2025-02-02 02:50:10,747 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/__init__.py', reloading
+2025-02-02 02:50:11,034 - INFO -  * Restarting with stat
+2025-02-02 02:54:27,407 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://138.197.19.186:5000
+2025-02-02 02:54:27,407 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 02:54:27,408 - INFO -  * Restarting with stat
+2025-02-02 02:54:28,122 - WARNING -  * Debugger is active!
+2025-02-02 02:54:28,123 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 02:54:32,882 - INFO - 127.0.0.1 - - [02/Feb/2025 02:54:32] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 02:54:33,753 - INFO - 127.0.0.1 - - [02/Feb/2025 02:54:33] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-02 02:54:33,756 - INFO - 127.0.0.1 - - [02/Feb/2025 02:54:33] "[36mGET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-02 02:54:34,247 - INFO - 127.0.0.1 - - [02/Feb/2025 02:54:34] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=FVKnhBOGNjX1dCW3zCuW HTTP/1.1" 200 -
+2025-02-02 03:04:28,298 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://138.197.19.186:5000
+2025-02-02 03:04:28,298 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 03:04:28,299 - INFO -  * Restarting with stat
+2025-02-02 03:04:29,097 - WARNING -  * Debugger is active!
+2025-02-02 03:04:29,098 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:04:32,562 - INFO - 127.0.0.1 - - [02/Feb/2025 03:04:32] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 03:04:33,235 - INFO - 127.0.0.1 - - [02/Feb/2025 03:04:33] "[36mGET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-02 03:04:33,239 - INFO - 127.0.0.1 - - [02/Feb/2025 03:04:33] "[36mGET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-02 03:04:33,629 - INFO - 127.0.0.1 - - [02/Feb/2025 03:04:33] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=dEkrDH12nNACTrjvczLo HTTP/1.1" 200 -
+2025-02-02 03:05:30,546 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 03:05:30,763 - INFO -  * Restarting with stat
+2025-02-02 03:06:30,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://138.197.19.186:5000
+2025-02-02 03:06:30,324 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 03:06:30,326 - INFO -  * Restarting with stat
+2025-02-02 03:06:31,182 - WARNING -  * Debugger is active!
+2025-02-02 03:06:31,183 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:06:35,479 - INFO - 127.0.0.1 - - [02/Feb/2025 03:06:35] "[35m[1mGET /contact HTTP/1.1[0m" 500 -
+2025-02-02 03:06:36,050 - INFO - 127.0.0.1 - - [02/Feb/2025 03:06:36] "[36mGET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-02 03:06:36,051 - INFO - 127.0.0.1 - - [02/Feb/2025 03:06:36] "[36mGET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-02 03:06:36,434 - INFO - 127.0.0.1 - - [02/Feb/2025 03:06:36] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=w4O8blQrk4GmedxvD3Pg HTTP/1.1" 200 -
+2025-02-02 03:08:20,031 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 03:08:20,266 - INFO -  * Restarting with stat
+2025-02-02 03:08:21,088 - WARNING -  * Debugger is active!
+2025-02-02 03:08:21,089 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:09:44,627 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://138.197.19.186:5000
+2025-02-02 03:09:44,628 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 03:09:44,629 - INFO -  * Restarting with stat
+2025-02-02 03:09:45,390 - WARNING -  * Debugger is active!
+2025-02-02 03:09:45,391 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:09:48,411 - INFO - 127.0.0.1 - - [02/Feb/2025 03:09:48] "GET /contact HTTP/1.1" 200 -
+2025-02-02 03:09:48,922 - INFO - 127.0.0.1 - - [02/Feb/2025 03:09:48] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 03:09:49,227 - INFO - 127.0.0.1 - - [02/Feb/2025 03:09:49] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 03:10:58,953 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/forms_routes.py', reloading
+2025-02-02 03:10:59,164 - INFO -  * Restarting with stat
+2025-02-02 03:10:59,947 - WARNING -  * Debugger is active!
+2025-02-02 03:10:59,947 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:11:03,124 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:03] "GET /contact HTTP/1.1" 200 -
+2025-02-02 03:11:03,613 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-02 03:11:03,920 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:03] "[36mGET /static/images/logo.jpg HTTP/1.1[0m" 304 -
+2025-02-02 03:11:13,269 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:13] "[35m[1mPOST /contact HTTP/1.1[0m" 500 -
+2025-02-02 03:11:13,856 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:13] "GET /contact?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-02 03:11:13,857 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:13] "GET /contact?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-02 03:11:14,225 - INFO - 127.0.0.1 - - [02/Feb/2025 03:11:14] "GET /contact?__debugger__=yes&cmd=resource&f=console.png&s=G4xrqKWk3Q7StZc3NVY5 HTTP/1.1" 200 -
+2025-02-02 03:11:47,311 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 03:11:47,519 - INFO -  * Restarting with stat
+2025-02-02 03:11:48,228 - WARNING -  * Debugger is active!
+2025-02-02 03:11:48,228 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:11:53,275 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 03:11:53,467 - INFO -  * Restarting with stat
+2025-02-02 03:11:54,199 - WARNING -  * Debugger is active!
+2025-02-02 03:11:54,199 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:11:56,222 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/routes/views_routes.py', reloading
+2025-02-02 03:11:56,418 - INFO -  * Restarting with stat
+2025-02-02 03:11:57,186 - WARNING -  * Debugger is active!
+2025-02-02 03:11:57,186 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 03:12:28,968 - INFO - 127.0.0.1 - - [02/Feb/2025 03:12:28] "GET /contact HTTP/1.1" 200 -
+2025-02-02 03:12:55,114 - INFO - 127.0.0.1 - - [02/Feb/2025 03:12:55] "[32mPOST /contact HTTP/1.1[0m" 302 -
+2025-02-02 03:12:55,510 - INFO - 127.0.0.1 - - [02/Feb/2025 03:12:55] "GET /contact HTTP/1.1" 200 -
+2025-02-02 03:12:56,006 - INFO - 127.0.0.1 - - [02/Feb/2025 03:12:56] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-02 03:12:56,304 - INFO - 127.0.0.1 - - [02/Feb/2025 03:12:56] "GET /static/images/logo.jpg HTTP/1.1" 200 -

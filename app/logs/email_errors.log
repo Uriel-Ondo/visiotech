@@ -1,0 +1,3 @@
+2025-02-02 01:50:07,424 - WARNING -  * Debugger is active!
+2025-02-02 01:50:07,425 - INFO -  * Debugger PIN: 564-638-565
+2025-02-02 01:50:25,564 - INFO -  * Detected change in '/home/nospi/projets/visiotech/app/utils/send_email.py', reloading

@@ -1,6 +1,5 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-#from migrations import Migrate
 from dotenv import load_dotenv
 import os
 
@@ -9,7 +8,6 @@ load_dotenv()
 
 # Initialisation des extensions
 db = SQLAlchemy()
-#migrate = Migrate()
 
 def create_app():
     app = Flask(__name__)
@@ -18,6 +16,9 @@ def create_app():
     app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('SQLALCHEMY_DATABASE_URI')
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
+    app.config['RECAPTCHA_SITE_KEY'] = os.getenv("RECAPTCHA_SITE_KEY")
+    app.config['RECAPTCHA_SECRET_KEY'] = os.getenv("RECAPTCHA_SECRET_KEY")
+    
 
     # Initialisation des extensions
     db.init_app(app)
